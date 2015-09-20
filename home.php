@@ -106,11 +106,11 @@ $conn = database_connect(HOST, USER, PASS, DB, PORT);
     </div>
     <div id="deposito" class="tab-pane fade">
       <h3>Depositos</h3>
-      <p>depositos a cuentas</p>
+      <p>Depositos a cuentas</p>
     </div>
     <div id="retiro" class="tab-pane fade">
       <h3>Retiros</h3>
-      <p>retiros de cuentas</p>
+      <p>Retiros de cuentas</p>
     </div>
   </div>
 </div>
